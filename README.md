@@ -1,12 +1,12 @@
 # Customer Churn Analysis
 
-## Overview
+## Overview :
 This project presents an end-to-end Customer Churn Analysis using the Customer Churn dataset. The dataset was cleaned in Microsoft Excel, analyzed using MySQL, and visualized through an interactive Power BI dashboard to identify Revenue impact, and retention opportunities.
 
-## Dataset
+## Dataset :
 - Customer Churn Dataset
 
-## Tools Used
+## Tools Used :
 - Microsoft Excel
 - MySQL
 - Power BI
